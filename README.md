@@ -1,8 +1,10 @@
 09.16.2026
 
-<!-- notify 1/2 -->
-## Notification 1/2 · notify
-Round: Round 1
-To: relda1@msn.com, akmtyping@aol.com
-At: 2026-09-16 16:50:09
-Id: jpETDG9p
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2 · notify
+Round: Round 2
+To: jlkdjm629@aol.com, if.itswood@yahoo.com
+At: 2026-09-16 16:50:47
+Id: KCcIbPql
